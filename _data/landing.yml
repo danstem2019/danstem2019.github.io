@@ -8,25 +8,25 @@
 
 - id: career
   i18n: nav.career
-  name: Career
+  name: Practical Information
   tpl: career.html
   css: timeline
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: Registration
   tpl: skills.html
   css: team
 
 - id: projects
   i18n: nav.projects
-  name: Projects
+  name: Meeting Plan
   tpl: projects.html
   css: project
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: Contact Us
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
