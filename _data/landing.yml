@@ -2,19 +2,19 @@
 # custom following lines to edit your index page
 - id: about-me
   i18n: nav.about_me
-  name: About
+  name: Home
   tpl: about.html
   css:
 
 - id: career
   i18n: nav.career
-  name: Career
+  name: Accomodation
   tpl: career.html
   css: timeline
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: Transportation
   tpl: skills.html
   css: team
 
